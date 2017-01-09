@@ -8,3 +8,7 @@ include_directories(
 add_subdirectory(NNCNNMaxReluForRelationLabeler)
 add_subdirectory(NNCNNMaxSigForRelationLabeler)
 add_subdirectory(NNCNNMaxTanhForRelationLabeler)
+
+add_subdirectory(NNCNNAvgReluForRelationLabeler)
+add_subdirectory(NNCNNMinReluForRelationLabeler)
+add_subdirectory(NNCNNTriReluForRelationLabeler)
